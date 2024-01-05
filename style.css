@@ -1,0 +1,16 @@
+.fundo-azul {
+    background-color: #3772FF;
+}
+
+.logo-pequena {
+    width: 120px;
+    height: auto;
+}
+
+.mancha-superior {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width:30%;
+}
